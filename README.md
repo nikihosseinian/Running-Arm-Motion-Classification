@@ -1,2 +1,9 @@
 # Running-Arm-Motion-Classification
 A motion pattern recognition system with machine learning capabilities. System relies on rotation angle and speed to classify arm motions in running.
+
+This code modifies the EmbeddedML system developed by Charles Zaloom.
+
+Key modifications include:
+- Using the gyroscope data source for a motion pattern consisting of two rotations; not one.
+- Using the event timing data source as a feature for classifying motion patterns.
+- Creating a user interface for training and executing a system for recognizing arm motions in running.
