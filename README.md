@@ -4,6 +4,6 @@ A motion pattern recognition system with machine learning capabilities. System r
 This code modifies the EmbeddedML system developed by Charles Zaloom.
 
 Key modifications include:
-- Using the gyroscope data source for a motion pattern consisting of two rotations, instead of one.
+- Using the gyroscope data source for recognizing a motion pattern consisting of two rotations instead of one.
 - Using the event timing data source as a feature for classifying motion patterns.
-- Creating a user interface for training and executing a system for recognizing arm motions in running.
+- Creating a user interface for training and executing a system for classifying arm motions in running.
