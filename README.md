@@ -13,4 +13,4 @@ Key modifications include:
 - Creating a user interface for training and executing a system for classifying arm motions in running.
 
 ## Video Demonstration
-[!(https://img.youtube.com/vi/ZHBypc7pgQk/0.jpg)](https://www.youtube.com/watch?v=ZHBypc7pgQk)
+[![Video](https://img.youtube.com/vi/ZHBypc7pgQk/0.jpg)](https://www.youtube.com/watch?v=ZHBypc7pgQk)
