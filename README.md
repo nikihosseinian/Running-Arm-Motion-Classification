@@ -1,7 +1,7 @@
 # Running-Arm-Motion-Classification
 
 ## Description
-A motion pattern recognition system that classifies arm motions in running. The system uses a SensorTile sensor to detect motions and an EmbeddedML neural network for its machine learning capabilities. The motion patterns are classified based on rotation angle and speed.
+A motion pattern recognition system that classifies arm motions in running. The system uses a SensorTile sensor to detect motions and an EmbeddedML neural network for its machine learning capabilities. Motion patterns are classified based on rotation angle and speed.
 
 This code modifies the EmbeddedML system developed by Charles Zaloom.
 
