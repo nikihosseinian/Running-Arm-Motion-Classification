@@ -1,6 +1,6 @@
 # Running-Arm-Motion-Classification
 
-## Project Description
+## Description
 A motion pattern recognition system that classifies arm motions in running.
 
 System uses a SensorTile sensor to detect motions and an EmbeddedML neural network for its machine learning capabilities. Motion patterns are classified based on rotation angle and speed.
@@ -12,5 +12,5 @@ Key modifications include:
 - Using the event timing data source as a feature for classifying motion patterns.
 - Creating a user interface for training and executing a system for classifying arm motions in running.
 
-## Video Demonstration
-[![Video](https://img.youtube.com/vi/ZHBypc7pgQk/0.jpg)](https://www.youtube.com/watch?v=ZHBypc7pgQk)
+## Demonstration
+[![video](https://img.youtube.com/vi/ZHBypc7pgQk/0.jpg)](https://www.youtube.com/watch?v=ZHBypc7pgQk)
